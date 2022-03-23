@@ -8,3 +8,4 @@ Test commit 4
 Test commit 5
 Test commit 6
 Test commit 7
+Test commit 8
